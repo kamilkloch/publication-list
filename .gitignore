@@ -1,4 +1,5 @@
 *.aux
+*.dvi
 *.toc
 *.synctex.gz
 *.fdb_latexmk
